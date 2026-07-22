@@ -1,3 +1,4 @@
+[SQL projects.sql](https://github.com/user-attachments/files/30253339/SQL.projects.sql)
 # SQL-Projects
 SQL queriesand project for data analysis
 # SQL Projects – Sales & Business Data Analysis
