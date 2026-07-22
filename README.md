@@ -7,11 +7,9 @@ This repository showcases SQL scripts written to analyze sales and business data
 
 ## Skills Demonstrated
 - Data querying and filtering (SELECT, WHERE, ORDER BY)
-- Joins (INNER, LEFT, RIGHT) across multiple tables
 - Aggregation and grouping (SUM, COUNT, AVG, GROUP BY, HAVING)
 - Subqueries and nested queries
 - Window functions (RANK, ROW_NUMBER, running totals)
-- Common Table Expressions (CTEs)
 - Data cleaning and transformation
 
 ## Tools Used
@@ -24,7 +22,13 @@ This repository showcases SQL scripts written to analyze sales and business data
 | _(add more rows as you upload more files)_ |
 
 ## Key Insights
-- (Optional) Summarize 1-2 interesting findings from your analysis, e.g. "Identified top 3 performing regions by revenue" or "Flagged declining product categories."
+- 			--The major problem is the uneven distribution of sales across regions, customer segments, 
+--and product categories. The business relies heavily on the Consumer, segment and Technology 
+--category, while regions such as the South contribute relatively low revenue. This 
+--limits overall business growth.Some of the key insights are:
+--1) Sales performance is uneven across regions, customer segments, and product categories.
+--2) Underperforming Regions like south contributes significantly less revenue than the West region.
+--this simply means poor regional performance.
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/stella-nwoye-b5725323a).
