@@ -1,7 +1,6 @@
 [SQL-projects.sql](https://github.com/user-attachments/files/30253339/SQL.projects.sql)
-''''sql"sql"
-SELECT TOP 10 Product_Name,
-COUNT(*) AS Times_Ordered
+```sql
+SELECT TOP 10 Product_Name, COUNT(*) AS Times_Ordered
 FROM SuperStore
 GROUP BY Product_Name
 ORDER BY Times_Ordered DESC
