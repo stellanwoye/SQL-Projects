@@ -1,10 +1,10 @@
-[SQL projects.sql](https://github.com/user-attachments/files/30253339/SQL.projects.sql)
+[SQL-projects.sql](https://github.com/user-attachments/files/30253339/SQL.projects.sql)
 # SQL-Projects
 SQL queriesand project for data analysis
 # SQL Projects – Sales & Business Data Analysis
 
 ## About
-This repository showcases SQL scripts written to analyze sales and business data of a superstore extract actionable insights, and support data-driven decision-making.
+This repository showcases SQL scripts written to analyze sales and business data of a superstore  to extract actionable insights, and support data-driven decision-making.
 
 ## Skills Demonstrated
 - Data querying and filtering (SELECT, WHERE, ORDER BY)
