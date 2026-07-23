@@ -1,17 +1,4 @@
-[SQL-projects.sql](https://github.com/user-attachments/files/30253339/SQL.projects.sql)
-
-```sql
-SELECT TOP 10 Product_Name, COUNT(*) AS Times_Ordered
-FROM SuperStore
-GROUP BY Product_Name
-ORDER BY Times_Ordered DESC```
-
-# SQL-Projects
-SQL queriesand project for data analysis
-# SQL Projects – Sales & Business Data Analysis
-
-## About
-This repository showcases SQL scripts written to analyze sales and business data of a superstore  to extract actionable insights, and support data-driven decision-making.
+[Organized_SQL_Portfolio_Superstore.sql](https://github.com/user-attachments/files/30316806/Organized_SQL_Portfolio_Superstore.sql)
 
 ## Skills Demonstrated
 - Data querying and filtering (SELECT, WHERE, ORDER BY)
@@ -27,16 +14,16 @@ This repository showcases SQL scripts written to analyze sales and business data
 | File | Description |
 |------|-------------|
 | `sales-analysis.sql` | Queries analyzing sales trends and performance |
-| _(add more rows as you upload more files)_ |
+| (add more rows as you upload more files)_ |
 
 ## Key Insights
-- 			--The major problem is the uneven distribution of sales across regions, customer segments, 
---and product categories. The business relies heavily on the Consumer, segment and Technology 
---category, while regions such as the South contribute relatively low revenue. This 
---limits overall business growth.Some of the key insights are:
---1) Sales performance is uneven across regions, customer segments, and product categories.
---2) Underperforming Regions like south contributes significantly less revenue than the West region.
---this simply means poor regional performance.
+--The major problem is the uneven distribution of sales across regions,customer segments, 
+and product categories. The business relies heavily on the Consumer, segment and Technology 
+category, while regions such as the South contribute relatively low revenue. This 
+limits overall business growth.Some of the key insights are:
+1) Sales performance is uneven across regions, customer segments, and product categories.
+2) Underperforming Regions like south contributes significantly less revenue than the West region.
+this simply means poor regional performance.
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/stella-nwoye-b5725323a).
